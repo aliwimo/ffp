@@ -1,0 +1,16 @@
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp.deps.json
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp.runtimeconfig.json
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp.runtimeconfig.dev.json
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp.dll
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ref/ffp.dll
+/home/aliwimo/codespace/ffp_csharp/bin/Debug/net5.0/ffp.pdb
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.csproj.AssemblyReference.cache
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.GeneratedMSBuildEditorConfig.editorconfig
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.AssemblyInfoInputs.cache
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.AssemblyInfo.cs
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.csproj.CoreCompileInputs.cache
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.dll
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ref/ffp.dll
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.pdb
+/home/aliwimo/codespace/ffp_csharp/obj/Debug/net5.0/ffp.genruntimeconfig.cache
